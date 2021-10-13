@@ -1,0 +1,23 @@
+.header {
+    margin: 15px;
+    display: flex;
+    background-color: orange;
+}
+
+.links {
+    margin-right: 70px;
+    padding: 10px;
+    color: white;
+    font-weight: 800;
+}
+
+.links a {
+    text-decoration: none;
+    color: white;
+}
+
+.links a:hover{
+    color: red;
+    font-size: 20px;;
+}
+

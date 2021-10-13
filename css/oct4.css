@@ -1,0 +1,22 @@
+.my-style{
+    color:darkblue;
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-right:50px;
+    border-radius: 10px;
+    box-shadow: 4px 3px 5px 2px grey;
+}
+
+
+.container {
+    display: flex;
+    align-items: center;
+    
+}
+
+.container img {
+    width: 250px; 
+}
+

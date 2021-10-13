@@ -1,0 +1,21 @@
+
+
+p {
+
+    font-size: 20px;
+}
+
+.section1{
+    background-color: rgb(156, 125, 130);
+    margin-bottom: 15px;
+    padding:10px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.section2{
+    background-color: rgba(116, 161, 189, 0.808);
+    padding:10px;
+    
+    box-shadow: 3px 5px 5px grey;
+}
